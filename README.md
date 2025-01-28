@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/MwrkwEQ.png" alt="DNS Photo"/>
+<img src="https://i.imgur.com/3OaAdju.png" alt="DNS Photo"/>
 </p>
 
 <h1>Understanding DNS</h1>

@@ -14,6 +14,12 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 - Active Directory Domain Services
 - Command Prompt
 
+ <h2>Skills</h2>
+
+- DNS Configuration and Management
+- Troubleshooting DNS Issues
+- Using Networking Tools (ping, nslookup, ipconfig)
+  
 <h2>Operating Systems Used </h2>
 
 - Windows Server 2022

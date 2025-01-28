@@ -33,7 +33,14 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <img src="https://i.imgur.com/96xUgLF.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
-While logged in to the client as an admin, open the command prompt. When we ping "mainframe" it will fail. Nslookup "mainframe" provides similar results and shows that there is no DNS record for it. A DNS A-record will have to be created for mainframe on the domain controller. On the domain controller, open the DNS Manager and go to the domain you created within the Forward Lookup Zones tab. In my case, it is ernestotest.com. Right click on the page and create a New Host. For name, input mainframe and the IP address should be the same IP as the domain controller so that ping can resolve. Refresh the DNS server so that the new record can be updated. Upon returning to the client, ping mainframe once again to see that it will now resolve.
+<br />-Log into DC-1 and Client-1 as tawannatest\jane_admin.
+<br />-On Client-1: Ping "mainframe" (it fails). Then Run nslookup mainframe (no DNS record).
+<br />-On DC-1: Create a DNS A-record for "mainframe" pointing to DC-1’s private IP.
+<br />-On Client-1: Ping "mainframe" again (it works).
+
+
+
+
 </p>
 <br />
 

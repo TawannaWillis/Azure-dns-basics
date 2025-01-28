@@ -3,7 +3,9 @@
 </p>
 
 <h1>Understanding DNS</h1>
-This lab focuses on DNS and how it is used. DNS is a fundamental concept in IT and many sources go over the theory behind it. I will be configuring DNS records and seeing how it works in practice. This is building up from a previous lab where I have a client joined to my domain ernestotest.com. I am logged in as Jane Doe (an admin account) on both the client and domain controller VMs. In order for the lab to work, you need to be logged in as an administrator. <br />
+
+
+This lab focuses on understanding and managing Domain Name System (DNS) records within an Active Directory environment. The exercises simulate real-world scenarios to enhance skills in DNS configuration, troubleshooting, and optimization. <br />
 
 <h2>Environments and Technologies Used</h2>
 

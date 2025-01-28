@@ -64,10 +64,10 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <br />
 
 <p>
-<img src="https://i.imgur.com/rI2NYU7.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/FmVM0IU.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/0IMEo4o.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/kLw5lp2.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/dyWduSW.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/22HXGfI.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/sgGCvB3.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
 On DC-1: Create a CNAME record pointing "search" to www.google.com.

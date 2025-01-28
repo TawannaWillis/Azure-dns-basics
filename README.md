@@ -30,7 +30,7 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <p>
 <img src="https://i.imgur.com/2dervb7.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/OS2G5ro.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/96xUgLF.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/dlI13Rk.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
 <br />-Log into DC-1 and Client-1 as tawannatest\jane_admin.
@@ -66,6 +66,7 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <img src="https://i.imgur.com/rI2NYU7.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/FmVM0IU.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/dyWduSW.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/22HXGfI.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
 On DC-1: Create a CNAME record pointing "search" to www.google.com.

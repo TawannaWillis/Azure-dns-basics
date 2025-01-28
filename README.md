@@ -28,7 +28,7 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <h2>DNS Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/5pjgtVz.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/2dervb7.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/Zl04Jyt.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/96xUgLF.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
@@ -68,7 +68,8 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <img src="https://i.imgur.com/dyWduSW.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
-A CNAME record will now be made on the DNS server that will point "search" to Google. On the Forward Lookup Zones tab in the DNS Manager, open the tab that has the domain. Create a new CNAME record called search and point it to Google. Refresh the server to save the changes. On the client, pinging search and using nslookup will return the results of the CNAME record.
+On DC-1: Create a CNAME record pointing "search" to www.google.com.
+On Client-1: Ping "search" and observe the CNAME results. Run nslookup search and observe the results.
 </p>
 <br />
 

@@ -48,7 +48,7 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <p>
 <img src="https://i.imgur.com/4fY6Oct.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/fvv3o3K.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/ds0SCKW.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/b2t2A7V.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/d4cXTCS.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>

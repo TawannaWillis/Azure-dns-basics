@@ -66,12 +66,11 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <p>
 <img src="https://i.imgur.com/0IMEo4o.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/kLw5lp2.png" height="80%" width="80%" alt="DNS Steps"/>
-<img src="https://i.imgur.com/dyWduSW.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/sgGCvB3.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
-On DC-1: Create a CNAME record pointing "search" to www.google.com.
-On Client-1: Ping "search" and observe the CNAME results. Run nslookup search and observe the results.
+<br />-On DC-1: Create a CNAME record pointing "search" to www.google.com.
+<br />-On Client-1: Ping "search" and observe the CNAME results. Run nslookup search and observe the results.
 </p>
 <br />
 

@@ -31,6 +31,7 @@ This lab focuses on understanding and managing Domain Name System (DNS) records 
 <img src="https://i.imgur.com/2dervb7.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/OS2G5ro.png" height="80%" width="80%" alt="DNS Steps"/>
 <img src="https://i.imgur.com/dlI13Rk.png" height="80%" width="80%" alt="DNS Steps"/>
+<img src="https://i.imgur.com/cJbZ65Z.png" height="80%" width="80%" alt="DNS Steps"/>
 </p>
 <p>
 <br />-Log into DC-1 and Client-1 as tawannatest\jane_admin.
